@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi proffessor and classmates. I hope that my work can impress at least one of you out there.
 
 <!--
 **AndyR015/AndyR015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
