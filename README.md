@@ -1,4 +1,7 @@
-### Welcome to my page.
+### Welcome to my page, I'm Andy.
+
+- 🔭 I’m currently working on setting up my page.
+- ⚡ I’m currently learning C++ at MCC
 
 <!--
 **AndyR015/AndyR015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
