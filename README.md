@@ -1,4 +1,4 @@
-### Welcome to my page. I am still deciding on how much I want to display here but for now, go check out the rest of my works. Maybe you will find one interesting.
+### Welcome to my page.
 
 <!--
 **AndyR015/AndyR015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
