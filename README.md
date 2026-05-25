@@ -1,7 +1,5 @@
 ### Welcome, I'm Andy Rizo and this is my page, enjoy.
 
-- 🔭 I’m currently working on setting up my page.
-- ⚡ I’m currently learning C++ at MCC
 
 <!--
 **AndyR015/AndyR015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
