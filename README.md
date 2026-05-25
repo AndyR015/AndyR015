@@ -1,4 +1,4 @@
-### Welcome to my page, I'm Andy.
+### Welcome, I'm Andy Rizo and this is my page, enjoy.
 
 - 🔭 I’m currently working on setting up my page.
 - ⚡ I’m currently learning C++ at MCC
